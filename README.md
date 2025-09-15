@@ -61,7 +61,7 @@ This project is configured to deploy as a static site on Vercel. Follow these st
 - Build Command: `npm run build`
 - Output Directory: `dist`
 
-4. Deploy. Vercel will run the build and serve the static site from the `dist` folder.
+4. Deploy. Vercel will run build and serve the static site from the `dist` folder.
 
 Notes
 
